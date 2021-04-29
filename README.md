@@ -1,6 +1,8 @@
-# neutralinojs-minimal
-The simplest template for a Neutralinojs app. It's possible to use your favorite frontend framework using the following steps.
-
-- Create a new project using your favorite frontend framework. (Eg: `ng new --directory .`)
-- Make the frontend framework's build path and Neutralino config's `url`, `resourcesPath` the same.
-- Build with the correct base href.
+# neutralinojs-react-template
+Quick boilerplate using Watch script for Neutralino.js with React live reload.  
+![Screenshot](https://i.ibb.co/7Qk2996/Screenshot-from-2021-04-30-01-01-48.png)
+## Usage:
+`git clone https://github.com/GetTuh/neutralinojs-react-template.git`  
+`cd neutralinojs-react-template`  
+`npm install`  
+and `npm start` to serve the app.
